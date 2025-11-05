@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Configurações sensíveis
+.env
+config.json
+
+# FFmpeg executáveis (muito grandes)
+ffmpeg_bin/
+*.exe
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+
