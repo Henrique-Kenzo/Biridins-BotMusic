@@ -71,5 +71,4 @@ Código aberto, estilo MIT, usa à vontade, só não esquece de dar aquele créd
 🌟 Curtiu meu mano?
 
 Dá uma ⭐ no repo e espalha o som.
-Se quiser trocar ideia, abrir issue ou sugerir melhoria, tamo junto 💬"# BotDiscord_Music" 
-"# BotDiscord_Music" 
+Se quiser trocar ideia, abrir issue ou sugerir melhoria, tamo junto 💬
